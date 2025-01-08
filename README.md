@@ -1,0 +1,1 @@
+Important Notice: For the application to work correctly, ensure that the realtime_detection_yolo.py file and the best.pt file are located in the same directory on your computer, and then run the realtime_detection_yolo.py script.
