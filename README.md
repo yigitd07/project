@@ -36,3 +36,5 @@ To run this project locally:
 ## Authors
 
 Tolgahan Mestan Kaya - [GitHub Profile](https://github.com/mestan4)
+Yiğit Dilek - 
+Çağın Hakan Denizci -
